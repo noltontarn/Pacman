@@ -8,6 +8,8 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.Game;
 
 public class PacmanGame extends Game {
+	public static final int HEIGHT = 600;
+    public static final int WIDTH = 800;
 	public SpriteBatch batch;
 	Texture img;
 	
